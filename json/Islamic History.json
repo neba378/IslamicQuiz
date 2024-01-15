@@ -1,0 +1,165 @@
+{
+  "category": "Islamic History",
+  "questions": [
+    {
+      "question": "Who was the first caliph of Islam?",
+      "choices": [
+        "Abu Bakr",
+        "Umar ibn al-Khattab",
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib"
+      ],
+      "answer": "Abu Bakr"
+    },
+    {
+      "question": "In which year did the Battle of Badr take place?",
+      "choices": ["622 CE", "624 CE", "626 CE", "628 CE"],
+      "answer": "624 CE"
+    },
+    {
+      "question": "Which caliphate lasted for the longest period of time?",
+      "choices": ["Rashidun", "Umayyad", "Abbasid", "Fatimid"],
+      "answer": "Abbasid"
+    },
+    {
+      "question": "Who was the last Islamic caliphate to rule the Ottoman Empire?",
+      "choices": [
+        "Suleiman the Magnificent",
+        "Abdul Hamid II",
+        "Mehmed VI",
+        "Mustafa Kemal Ataturk"
+      ],
+      "answer": "Mehmed VI"
+    },
+    {
+      "question": "Which Muslim general conquered Spain in the 8th century?",
+      "choices": [
+        "Saladin",
+        "Tariq ibn Ziyad",
+        "Khalid ibn al-Walid",
+        "Muhammad al-Idrisi"
+      ],
+      "answer": "Tariq ibn Ziyad"
+    },
+    {
+      "question": "Who was the founder of the Fatimid Caliphate in North Africa?",
+      "choices": [
+        "Abu Bakr al-Baghdadi",
+        "Hassan al-Banna",
+        "Imam al-Mahdi",
+        "Ubayd Allah al-Mahdi"
+      ],
+      "answer": "Ubayd Allah al-Mahdi"
+    },
+    {
+      "question": "Which Islamic empire ruled over the Indian subcontinent for several centuries?",
+      "choices": [
+        "Safavid Empire",
+        "Mughal Empire",
+        "Ghaznavid Empire",
+        "Timurid Empire"
+      ],
+      "answer": "Mughal Empire"
+    },
+    {
+      "question": "Who was the Muslim scholar and explorer known for his travels across the Muslim world and beyond?",
+      "choices": ["Ibn Sina", "Ibn Battuta", "Al-Farabi", "Al-Kindi"],
+      "answer": "Ibn Battuta"
+    },
+    {
+      "question": "Which Islamic dynasty ruled Egypt and parts of the Levant from the 12th to 16th centuries?",
+      "choices": [
+        "Ayyubid Dynasty",
+        "Mamluk Dynasty",
+        "Seljuq Dynasty",
+        "Fatimid Dynasty"
+      ],
+      "answer": "Mamluk Dynasty"
+    },
+    {
+      "question": "Who was the Islamic scholar and philosopher known for his work 'The Incoherence of the Philosophers'?",
+      "choices": ["Al-Ghazali", "Ibn Rushd", "Al-Farabi", "Ibn Sina"],
+      "answer": "Al-Ghazali"
+    },
+    {
+      "question": "Which Islamic empire was known for its contributions to science, art, and architecture during the medieval period?",
+      "choices": [
+        "Umayyad Caliphate",
+        "Abbasid Caliphate",
+        "Seljuk Empire",
+        "Safavid Empire"
+      ],
+      "answer": "Abbasid Caliphate"
+    },
+    {
+      "question": "Who was the Muslim military commander who recaptured Jerusalem from the Crusaders in the 12th century?",
+      "choices": [
+        "Saladin",
+        "Richard the Lionheart",
+        "Baldwin IV",
+        "Frederick Barbarossa"
+      ],
+      "answer": "Saladin"
+    },
+    {
+      "question": "Which Islamic empire was centered in present-day Iran and known for its promotion of Shia Islam?",
+      "choices": [
+        "Ottoman Empire",
+        "Safavid Empire",
+        "Mughal Empire",
+        "Abbasid Caliphate"
+      ],
+      "answer": "Safavid Empire"
+    },
+    {
+      "question": "Which Islamic scholar and theologian is known for his compilation of Hadith collections?",
+      "choices": ["Imam Malik", "Imam Hanbal", "Imam Shafi'i", "Imam Bukhari"],
+      "answer": "Imam Bukhari"
+    },
+    {
+      "question": "Who was the Muslim scholar and polymath known for his work 'The Canon of Medicine'?",
+      "choices": ["Ibn Rushd", "Ibn Sina", "Al-Farabi", "Al-Kindi"],
+      "answer": "Ibn Sina"
+    },
+    {
+      "question": "Which city served as the capital of the Islamic Umayyad Caliphate?",
+      "choices": ["Baghdad", "Cairo", "Damascus", "Cordoba"],
+      "answer": "Damascus"
+    },
+    {
+      "question": "Which Islamic scholar is known for his commentary on the Quran called 'Tafsir ibn Kathir'?",
+      "choices": [
+        "Ibn Taymiyyah",
+        "Ibn Kathir",
+        "Ibn Hajar al-Asqalani",
+        "Al-Qurtubi"
+      ],
+      "answer": "Ibn Kathir"
+    },
+    {
+      "question": "Which Islamic empire was known for its maritime trade and dominance in the Indian Ocean?",
+      "choices": [
+        "Ghaznavid Empire",
+        "Seljuq Empire",
+        "Mamluk Sultanate",
+        "Malacca Sultanate"
+      ],
+      "answer": "Malacca Sultanate"
+    },
+    {
+      "question": "Who was the Islamic scholar and theologian known for his work 'Ihya Ulum al-Din'?",
+      "choices": ["Imam Ghazali", "Imam Shafi'i", "Imam Malik", "Imam Hanbal"],
+      "answer": "Imam Ghazali"
+    },
+    {
+      "question": "Which Islamic scholar is known for his compilation of Hadith collections called 'Sahih Muslim'?",
+      "choices": [
+        "Imam Bukhari",
+        "Imam Abu Hanifa",
+        "Imam Tirmidhi",
+        "Imam Muslim"
+      ],
+      "answer": "Imam Muslim"
+    }
+  ]
+}

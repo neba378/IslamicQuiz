@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SignUp</title>
+    <link rel="stylesheet" href="/CSS/signUp.css" />
+  </head>
+  <body>
+    <div class="signUpContainer">
+      <h2>
+        Get Started with
+        <span style="color: blueviolet">Islamic Quizzes</span>
+      </h2>
+
+      <label class="lable" for="Fname">First Name:</label>
+      <br />
+      <input
+        class="inp"
+        type="text"
+        name="Fname"
+        id="first-name"
+        placeholder="First Name"
+      />
+      <br />
+      <label class="lable" for="Lname">Last Name:</label>
+      <br />
+      <input
+        class="inp"
+        type="text"
+        name="Lname"
+        id="last-name"
+        placeholder="Last Name"
+      />
+      <br />
+      <label class="lable" for="email">Email:</label>
+      <br />
+      <input
+        class="inp"
+        type="text"
+        name="email"
+        id="email"
+        placeholder="abc@gmail.com"
+      />
+      <br />
+      <label class="lable" for="Password">Password:</label>
+      <br />
+      <input
+        class="inp"
+        type="password"
+        name="Password"
+        id="password"
+        placeholder="must be 8 or more"
+      />
+      <br />
+      <label class="lable" for="rPassword">Confirm:</label>
+      <br />
+      <input
+        class="inp"
+        type="password"
+        name="rPassword"
+        id="r-password"
+        placeholder="repeat here"
+      />
+      <br />
+      <p id="error-msg" style="color: red; margin: 0px"></p>
+      <button class="register" id="signup-button">Register</button>
+
+      <p style="margin-left: 15%">
+        Already have account?
+        <span><a href="/pages/login.html" class="loginLink">LogIn</a></span>
+      </p>
+    </div>
+
+    <script src="/JS/index.js"></script>
+  </body>
+</html>

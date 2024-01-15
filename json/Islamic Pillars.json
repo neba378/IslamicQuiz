@@ -1,0 +1,185 @@
+{
+  "category": "Islamic Pillars Quiz",
+  "questions": [
+    {
+      "question": "What is the first pillar of Islam?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Shahada (Testimony of Faith)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Shahada (Testimony of Faith)"
+    },
+    {
+      "question": "Which pillar of Islam requires Muslims to perform the daily prayers?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Salah (Prayer)"
+    },
+    {
+      "question": "What is the pillar of Islam that involves fasting during the month of Ramadan?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Sawm (Fasting)"
+    },
+    {
+      "question": "Which pillar of Islam requires Muslims to give a portion of their wealth to the needy?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Zakat (Charity)"
+    },
+    {
+      "question": "What is the pillar of Islam that involves the pilgrimage to Mecca?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Hajj (Pilgrimage)"
+    },
+    {
+      "question": "Which pillar of Islam requires Muslims to declare and affirm their faith in one God and Prophet Muhammad (pbuh)?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Shahada (Testimony of Faith)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Shahada (Testimony of Faith)"
+    },
+    {
+      "question": "How many times a day are Muslims required to perform the Salah (Prayer)?",
+      "choices": ["1 time", "3 times", "5 times", "7 times"],
+      "answer": "5 times"
+    },
+    {
+      "question": "During which month do Muslims observe the fasting pillar of Islam?",
+      "choices": ["Ramadan", "Shawwal", "Dhu al-Hijjah", "Muharram"],
+      "answer": "Ramadan"
+    },
+    {
+      "question": "What is the minimum amount of wealth that Muslims must possess before being obligated to pay Zakat?",
+      "choices": [
+        "5% of total wealth",
+        "10% of total wealth",
+        "2.5% of total wealth",
+        "1% of total wealth"
+      ],
+      "answer": "2.5% of total wealth"
+    },
+    {
+      "question": "Which pillar of Islam requires physical and financial capability to perform?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Hajj (Pilgrimage)"
+    },
+    {
+      "question": "What is the significance of the black stone at the Kaaba during the Hajj pilgrimage?",
+      "choices": [
+        "It symbolizes the unity of Muslims",
+        "It represents Prophet Muhammad (pbuh)",
+        "It signifies the start and end of each circuit around the Kaaba",
+        "It grants forgiveness to those who touch it"
+      ],
+      "answer": "It signifies the start and end of each circuit around the Kaaba"
+    },
+    {
+      "question": "Which pillar of Islam is considered the backbone of the religion?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Shahada (Testimony of Faith)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Shahada (Testimony of Faith)"
+    },
+    {
+      "question": "What is the first pillar of Islam?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Shahada (Testimony of Faith)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Shahada (Testimony of Faith)"
+    },
+    {
+      "question": "Which pillar of Islam requires Muslims to perform the daily prayers?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Salah (Prayer)"
+    },
+    {
+      "question": "What is the pillar of Islam that involves fasting during the month of Ramadan?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Sawm (Fasting)"
+    },
+    {
+      "question": "Which pillar of Islam requires Muslims to give a portion of their wealth to the needy?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Zakat (Charity)"
+    },
+    {
+      "question": "What is the pillar of Islam that involves the pilgrimage to Mecca?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Hajj (Pilgrimage)"
+    },
+    {
+      "question": "Which pillar of Islam requires Muslims to declare and affirm their faith in one God and Prophet Muhammad (pbuh)?",
+      "choices": [
+        "Salah (Prayer)",
+        "Sawm (Fasting)",
+        "Shahada (Testimony of Faith)",
+        "Zakat (Charity)"
+      ],
+      "answer": "Shahada (Testimony of Faith)"
+    },
+    {
+      "question": "How many times a day are Muslims required to perform the Salah (Prayer)?",
+      "choices": ["1 time", "3 times", "5 times", "7 times"],
+      "answer": "5 times"
+    },
+    {
+      "question": "During which month do Muslims observe the fasting pillar of Islam?",
+      "choices": ["Ramadan", "Shawwal", "Dhu al-Hijjah", "Muharram"],
+      "answer": "Ramadan"
+    }
+  ]
+}

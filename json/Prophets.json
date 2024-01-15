@@ -1,0 +1,170 @@
+{
+  "category": "Prophets of Islam Quiz",
+  "questions": [
+    {
+      "question": "Who is the first Prophet of Islam?",
+      "choices": ["Adam", "Noah", "Abraham", "Moses"],
+      "answer": "Adam"
+    },
+    {
+      "question": "Who is known as the 'Father of all Prophets'?",
+      "choices": ["Isa (Jesus)", "Muhammad", "Ibrahim (Abraham)", "Nuh (Noah)"],
+      "answer": "Ibrahim (Abraham)"
+    },
+    {
+      "question": "Which Prophet built the Ark?",
+      "choices": [
+        "Musa (Moses)",
+        "Ismail (Ishmael)",
+        "Nuh (Noah)",
+        "Dawud (David)"
+      ],
+      "answer": "Nuh (Noah)"
+    },
+    {
+      "question": "Who is the Prophet mentioned most frequently in the Quran?",
+      "choices": [
+        "Isa (Jesus)",
+        "Musa (Moses)",
+        "Ibrahim (Abraham)",
+        "Muhammad"
+      ],
+      "answer": "Musa (Moses)"
+    },
+    {
+      "question": "Who is the Prophet associated with the splitting of the sea?",
+      "choices": [
+        "Ilyas (Elijah)",
+        "Yunus (Jonah)",
+        "Harun (Aaron)",
+        "Musa (Moses)"
+      ],
+      "answer": "Musa (Moses)"
+    },
+    {
+      "question": "Which Prophet is known for his patience during trials?",
+      "choices": [
+        "Ayyub (Job)",
+        "Lut (Lot)",
+        "Ishaq (Isaac)",
+        "Zakariya (Zechariah)"
+      ],
+      "answer": "Ayyub (Job)"
+    },
+    {
+      "question": "Who is the Prophet mentioned in the Quran as having been swallowed by a whale?",
+      "choices": [
+        "Yahya (John the Baptist)",
+        "Idris (Enoch)",
+        "Yunus (Jonah)",
+        "Hud"
+      ],
+      "answer": "Yunus (Jonah)"
+    },
+    {
+      "question": "Which Prophet is known for his wisdom and ability to communicate with animals?",
+      "choices": ["Hud", "Sulaiman (Solomon)", "Shuayb", "Isma'il (Ishmael)"],
+      "answer": "Sulaiman (Solomon)"
+    },
+    {
+      "question": "Who is the last and final Prophet of Islam?",
+      "choices": ["Muhammad", "Isa (Jesus)", "Ibrahim (Abraham)", "Nuh (Noah)"],
+      "answer": "Muhammad"
+    },
+    {
+      "question": "Which Prophet is known for his miraculous birth to a barren mother?",
+      "choices": [
+        "Yahya (John the Baptist)",
+        "Isa (Jesus)",
+        "Ibrahim (Abraham)",
+        "Ya'qub (Jacob)"
+      ],
+      "answer": "Isa (Jesus)"
+    },
+    {
+      "question": "Who is known as the 'Friend of Allah'?",
+      "choices": [
+        "Yahya (John the Baptist)",
+        "Isa (Jesus)",
+        "Ibrahim (Abraham)",
+        "Idris (Enoch)"
+      ],
+      "answer": "Ibrahim (Abraham)"
+    },
+    {
+      "question": "Which Prophet was swallowed by a giant fish?",
+      "choices": [
+        "Zakariya (Zechariah)",
+        "Ayyub (Job)",
+        "Musa (Moses)",
+        "Yunus (Jonah)"
+      ],
+      "answer": "Yunus (Jonah)"
+    },
+    {
+      "question": "Who is the Prophet known for his dream interpretation?",
+      "choices": [
+        "Ibrahim (Abraham)",
+        "Yusuf (Joseph)",
+        "Musa (Moses)",
+        "Isma'il (Ishmael)"
+      ],
+      "answer": "Yusuf (Joseph)"
+    },
+    {
+      "question": "Which Prophet is known for challenging the people to a miracle of camels?",
+      "choices": ["Saleh", "Hud", "Shuayb", "Lut (Lot)"],
+      "answer": "Saleh"
+    },
+    {
+      "question": "Who is the Prophet mentioned as being raised to the heavens without experiencing death?",
+      "choices": [
+        "Idris (Enoch)",
+        "Isa (Jesus)",
+        "Yahya (John the Baptist)",
+        "Ismail (Ishmael)"
+      ],
+      "answer": "Idris (Enoch)"
+    },
+    {
+      "question": "Which Prophet is known for his extraordinary strength?",
+      "choices": [
+        "Isa (Jesus)",
+        "Dawud (David)",
+        "Ibrahim (Abraham)",
+        "Musa (Moses)"
+      ],
+      "answer": "Dawud (David)"
+    },
+    {
+      "question": "Who is the Prophet associated with the construction of the Kaaba in Mecca?",
+      "choices": [
+        "Yusuf (Joseph)",
+        "Ismail (Ishmael)",
+        "Zakariya (Zechariah)",
+        "Ilyas (Elijah)"
+      ],
+      "answer": "Ismail (Ishmael)"
+    },
+    {
+      "question": "Which Prophet is known for his call to worship the One God, rejecting idol worship?",
+      "choices": ["Shuaib", "Lut (Lot)", "Zakariya (Zechariah)", "Nuh (Noah)"],
+      "answer": "Nuh (Noah)"
+    },
+    {
+      "question": "Who is the Prophet mentioned as having been given the ability to speak as an infant?",
+      "choices": [
+        "Isa (Jesus)",
+        "Yahya (John the Baptist)",
+        "Ibrahim (Abraham)",
+        "Musa (Moses)"
+      ],
+      "answer": "Isa (Jesus)"
+    },
+    {
+      "question": "Which Prophet is known for his message of patience and perseverance?",
+      "choices": ["Ayyub (Job)", "Yunus (Jonah)", "Hud", "Harun (Aaron)"],
+      "answer": "Hud"
+    }
+  ]
+}

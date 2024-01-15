@@ -1,0 +1,130 @@
+{
+  "category": "Islamic Law and Jurisprudence Quiz",
+  "questions": [
+    {
+      "question": "What is the primary source of Islamic law?",
+      "choices": [
+        "Hadith (Prophetic Traditions)",
+        "Quran (Holy Book)",
+        "Ijma (Consensus)",
+        "Qiyas (Analogical Reasoning)"
+      ],
+      "answer": "Quran (Holy Book)"
+    },
+    {
+      "question": "Which Islamic legal school is the most widely followed by Sunni Muslims?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Hanafi"
+    },
+    {
+      "question": "Which Islamic legal school is the most widely followed by Shia Muslims?",
+      "choices": ["Ja'fari", "Zaidi", "Ibadi", "Shafi'i"],
+      "answer": "Ja'fari"
+    },
+    {
+      "question": "What is the term for the act of making a legal ruling based on Islamic law?",
+      "choices": ["Fatwa", "Haram", "Halal", "Ijtihad"],
+      "answer": "Fatwa"
+    },
+    {
+      "question": "Which Islamic legal concept refers to something that is prohibited or forbidden?",
+      "choices": ["Fatwa", "Haram", "Halal", "Ijtihad"],
+      "answer": "Haram"
+    },
+    {
+      "question": "Which Islamic legal concept refers to something that is permissible or allowed?",
+      "choices": ["Fatwa", "Haram", "Halal", "Ijtihad"],
+      "answer": "Halal"
+    },
+    {
+      "question": "What is the term for the process of independent legal reasoning in Islamic law?",
+      "choices": ["Fatwa", "Haram", "Halal", "Ijtihad"],
+      "answer": "Ijtihad"
+    },
+    {
+      "question": "Who is considered the founder of the Hanafi legal school of thought?",
+      "choices": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Al-Shafi'i",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "answer": "Imam Abu Hanifa"
+    },
+    {
+      "question": "Which Islamic legal school emphasizes the use of reason and analogy in legal rulings?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Shafi'i"
+    },
+    {
+      "question": "What is the term for the consensus of Islamic scholars on a particular legal issue?",
+      "choices": ["Hadith", "Quran", "Ijma", "Qiyas"],
+      "answer": "Ijma"
+    },
+    {
+      "question": "Which Islamic legal school is known for its strict adherence to the literal interpretation of the Quran and Hadith?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Hanbali"
+    },
+    {
+      "question": "What is the term for analogical reasoning in Islamic law?",
+      "choices": ["Hadith", "Quran", "Ijma", "Qiyas"],
+      "answer": "Qiyas"
+    },
+    {
+      "question": "Which Islamic legal school is predominant in North Africa and some parts of West Africa?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Maliki"
+    },
+    {
+      "question": "Who is considered the founder of the Maliki legal school of thought?",
+      "choices": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Al-Shafi'i",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "answer": "Imam Malik"
+    },
+    {
+      "question": "Which Islamic legal school is known for its emphasis on the traditions of the people of Medina?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Maliki"
+    },
+    {
+      "question": "What is the term for the sayingsand actions of the Prophet Muhammad?",
+      "choices": ["Hadith", "Quran", "Ijma", "Qiyas"],
+      "answer": "Hadith"
+    },
+    {
+      "question": "Who is considered the founder of the Shafi'i legal school of thought?",
+      "choices": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Al-Shafi'i",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "answer": "Imam Al-Shafi'i"
+    },
+    {
+      "question": "Which Islamic legal school is known for its strict adherence to the literal interpretation of the Quran and Hadith?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Hanbali"
+    },
+    {
+      "question": "Who is considered the founder of the Hanbali legal school of thought?",
+      "choices": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Al-Shafi'i",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "answer": "Imam Ahmad ibn Hanbal"
+    },
+    {
+      "question": "Which Islamic legal school is known for its strict adherence to the teachings of the Prophet Muhammad's companions?",
+      "choices": ["Hanafi", "Maliki", "Shafi'i", "Hanbali"],
+      "answer": "Hanbali"
+    }
+  ]
+}

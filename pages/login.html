@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LogIn</title>
+    <link rel="stylesheet" href="/CSS/login.css" />
+  </head>
+  <body>
+    <div class="loginContainer" style="height: 296px">
+      <h2>
+        Welcome Back To
+        <span style="color: rgb(240, 174, 19)">Islamic Quizzes</span>
+      </h2>
+      <label class="lable" for="email">Email:</label>
+      <br />
+      <input
+        class="inp"
+        type="text"
+        name="email"
+        id="email"
+        placeholder="abc@gmail.com"
+      />
+      <br />
+      <label class="lable" for="Password">Password:</label>
+      <br />
+      <input
+        class="inp"
+        type="password"
+        name="Password"
+        id="password"
+        placeholder="must be 8 or more"
+      />
+      <p id="error-msg" style="color: red; margin: 0px"></p>
+      <button class="login" id="login-button">LogIn</button>
+
+      <p style="margin-left: 20%">
+        Are you new?
+        <span><a href="/pages/signUp.html" class="signup">SignUp</a></span>
+      </p>
+    </div>
+    <script src="/JS/login.js"></script>
+  </body>
+</html>

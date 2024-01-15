@@ -1,0 +1,135 @@
+{
+  "category": "Islamic Holidays and Celebrations Quiz",
+  "questions": [
+    {
+      "question": "What is the festival that marks the end of Ramadan?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Eid al-Fitr"
+    },
+    {
+      "question": "Which holiday commemorates the willingness of Ibrahim (Abraham) to sacrifice his son?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Eid al-Adha"
+    },
+    {
+      "question": "Which holiday marks the birth of the Prophet Muhammad?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Mawlid al-Nabi"
+    },
+    {
+      "question": "Which holiday commemorates the martyrdom of Imam Hussein, the grandson of Prophet Muhammad?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Ashura"
+    },
+    {
+      "question": "During which month do Muslims fast from dawn until sunset?",
+      "choices": ["Ramadan", "Shawwal", "Dhu al-Hijjah", "Muharram"],
+      "answer": "Ramadan"
+    },
+    {
+      "question": "Which holiday marks the beginning of the Islamic lunar calendar year?",
+      "choices": ["Ramadan", "Shawwal", "Dhu al-Hijjah", "Muharram"],
+      "answer": "Muharram"
+    },
+    {
+      "question": "Which holiday is known as the 'Festival of Breaking the Fast'?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Eid al-Fitr"
+    },
+    {
+      "question": "Which holiday is known as the 'Festival of Sacrifice'?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Eid al-Adha"
+    },
+    {
+      "question": "Which holiday commemorates the Night Journey of the Prophet Muhammad?",
+      "choices": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Mawlid al-Nabi",
+        "Isra and Mi'raj"
+      ],
+      "answer": "Isra and Mi'raj"
+    },
+    {
+      "question": "During which month do Muslims perform the Hajj pilgrimage?",
+      "choices": ["Ramadan", "Shawwal", "Dhu al-Hijjah", "Muharram"],
+      "answer": "Dhu al-Hijjah"
+    },
+    {
+      "question": "Which holiday marks the end of the Hajj pilgrimage?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Eid al-Adha"
+    },
+    {
+      "question": "Which holiday marks the arrival of the Islamic month of Shawwal?",
+      "choices": ["Ramadan", "Shawwal", "Dhu al-Hijjah", "Muharram"],
+      "answer": "Eid al-Fitr"
+    },
+    {
+      "question": "Which holiday is known as the 'Feast of Sacrifice'?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Eid al-Adha"
+    },
+    {
+      "question": "Which holiday marks the birth of Imam Ali, the cousin and son-in-law of Prophet Muhammad?",
+      "choices": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Mawlid al-Nabi",
+        "Mawlid al-Imam Ali"
+      ],
+      "answer": "Mawlid al-Imam Ali"
+    },
+    {
+      "question": "Which holiday is observed on the 10th day of the Islamic month of Muharram?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Mawlid al-Nabi", "Ashura"],
+      "answer": "Ashura"
+    },
+    {
+      "question": "Which holiday marks the birth of Imam Hassan, the grandson of Prophet Muhammad?",
+      "choices": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Mawlid al-Nabi",
+        "Mawlid al-Imam Hassan"
+      ],
+      "answer": "Mawlid al-Imam Hassan"
+    },
+    {
+      "question": "Which holiday is known as the 'Night of Power'?",
+      "choices": ["Eid al-Fitr", "Eid al-Adha", "Laylat al-Qadr", "Ashura"],
+      "answer": "Laylat al-Qadr"
+    },
+    {
+      "question": "Which holiday marks the birth of Imam Hussain, the grandson of Prophet Muhammad?",
+      "choices": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Mawlid al-Nabi",
+        "Mawlid al-Imam Hussain"
+      ],
+      "answer": "Mawlid al-Imam Hussain"
+    },
+    {
+      "question": "Which holiday is observed on the 15th day of the Islamic month of Sha'ban?",
+      "choices": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Mawlid al-Nabi",
+        "Mid-Sha'ban"
+      ],
+      "answer": "Mid-Sha'ban"
+    },
+    {
+      "question": "Which holiday marks the birth of Fatima Zahra, the daughter of Prophet Muhammad?",
+      "choices": [
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Mawlid al-Nabi",
+        "Mawlid al-Fatima"
+      ],
+      "answer": "Mawlid al-Fatima"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "category": "Islamic Sciences Quiz",
+  "questions": [
+    {
+      "question": "What is the science of interpreting the Quran called?",
+      "choices": ["Tafsir", "Fiqh", "Hadith", "Aqeedah"],
+      "answer": "Tafsir"
+    },
+    {
+      "question": "Which science deals with the principles of Islamic jurisprudence?",
+      "choices": ["Tajweed", "Fiqh", "Usul al-Fiqh", "Aqeedah"],
+      "answer": "Usul al-Fiqh"
+    },
+    {
+      "question": "What is the science of Islamic creed and belief called?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Aqeedah"],
+      "answer": "Aqeedah"
+    },
+    {
+      "question": "Which science focuses on the study of Islamic legal principles and rulings?",
+      "choices": ["Tajweed", "Fiqh", "Usul al-Fiqh", "Aqeedah"],
+      "answer": "Fiqh"
+    },
+    {
+      "question": "What is the science of studying and classifying hadiths called?",
+      "choices": ["Tafsir", "Fiqh", "Hadith", "Aqeedah"],
+      "answer": "Hadith"
+    },
+    {
+      "question": "Which science deals with the proper recitation of the Quran?",
+      "choices": ["Tajweed", "Fiqh", "Usul al-Fiqh", "Aqeedah"],
+      "answer": "Tajweed"
+    },
+    {
+      "question": "What is the science of Islamic spirituality and purification of the heart called?",
+      "choices": ["Tajweed", "Fiqh", "Tazkiyah", "Aqeedah"],
+      "answer": "Tazkiyah"
+    },
+    {
+      "question": "Which science focuses on the study of the lives and teachings of the Prophet Muhammad (pbuh)?",
+      "choices": ["Tajweed", "Fiqh", "Seerah", "Aqeedah"],
+      "answer": "Seerah"
+    },
+    {
+      "question": "What is the science of Islamic ethics and moral values called?",
+      "choices": ["Tajweed", "Fiqh", "Akhlāq", "Aqeedah"],
+      "answer": "Akhlāq"
+    },
+    {
+      "question": "Which science deals with the knowledge of Islamic legal maxims and principles?",
+      "choices": ["Tajweed", "Fiqh", "Qawaid al-Fiqh", "Aqeedah"],
+      "answer": "Qawaid al-Fiqh"
+    },
+    {
+      "question": "What is the science of Islamic economics and finance called?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Economics"],
+      "answer": "Islamic Economics"
+    },
+    {
+      "question": "Which science focuses on the study of Islamic history?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic History"],
+      "answer": "Islamic History"
+    },
+    {
+      "question": "What is the science of Islamic calligraphy and art called?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Art"],
+      "answer": "Islamic Art"
+    },
+    {
+      "question": "Which science deals with the knowledge of Islamic clothing and adornment?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Dress"],
+      "answer": "Islamic Dress"
+    },
+    {
+      "question": "What is the science of Islamic architecture and design called?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Architecture"],
+      "answer": "Islamic Architecture"
+    },
+    {
+      "question": "Which science focuses on the study of Islamic spirituality and mysticism?",
+      "choices": ["Tajweed", "Fiqh", "Sufism", "Aqeedah"],
+      "answer": "Sufism"
+    },
+    {
+      "question": "What is the science of Islamic dietary laws called?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Halal"],
+      "answer": "Halal"
+    },
+    {
+      "question": "Which science deals with the knowledge of Islamic family laws and relationships?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Family Law"],
+      "answer": "Islamic Family Law"
+    },
+    {
+      "question": "What is the science of Islamic medicine and healing called?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Medicine"],
+      "answer": "Islamic Medicine"
+    },
+    {
+      "question": "Which science focuses on the study of Islamic education and pedagogy?",
+      "choices": ["Tajweed", "Fiqh", "Hadith", "Islamic Education"],
+      "answer": "Islamic Education"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "category": "Islamic Art and Architecture Quiz",
+  "questions": [
+    {
+      "question": "Which architectural feature is commonly found in Islamic mosques?",
+      "choices": [
+        "Bell towers",
+        "Minarets",
+        "Stained glass windows",
+        "Gargoyles"
+      ],
+      "answer": "Minarets"
+    },
+    {
+      "question": "Which famous Islamic monument is known for its dome and minaret?",
+      "choices": ["Hagia Sophia", "Taj Mahal", "Alhambra", "Blue Mosque"],
+      "answer": "Blue Mosque"
+    },
+    {
+      "question": "Which art form is commonly used to decorate Islamic manuscripts?",
+      "choices": ["Calligraphy", "Sculpture", "Mosaic", "Fresco"],
+      "answer": "Calligraphy"
+    },
+    {
+      "question": "Which city is known for its stunning Islamic geometric patterns in architecture?",
+      "choices": ["Cairo", "Istanbul", "Granada", "Marrakech"],
+      "answer": "Granada"
+    },
+    {
+      "question": "What is the purpose of a mihrab in a mosque?",
+      "choices": [
+        "To call Muslims to prayer",
+        "To store religious texts",
+        "To face the direction of Mecca",
+        "To wash before prayer"
+      ],
+      "answer": "To face the direction of Mecca"
+    },
+    {
+      "question": "Which Islamic architectural style is characterized by its pointed arches and ribbed vaults?",
+      "choices": [
+        "Mughal architecture",
+        "Gothic architecture",
+        "Ottoman architecture",
+        "Moorish architecture"
+      ],
+      "answer": "Gothic architecture"
+    },
+    {
+      "question": "Which Islamic art form is created by assembling small pieces of colored glass, stone, or tile?",
+      "choices": ["Mosaic", "Fresco", "Engraving", "Wood carving"],
+      "answer": "Mosaic"
+    },
+    {
+      "question": "Which Islamic architectural element is used to create a sense of harmony and balance?",
+      "choices": ["Dome", "Spire", "Vault", "Minaret"],
+      "answer": "Dome"
+    },
+    {
+      "question": "Which Islamic monument is known for its intricate lattice-like screens (jalis)?",
+      "choices": [
+        "Sheikh Zayed Mosque",
+        "Qutub Minar",
+        "Lotus Temple",
+        "Jama Masjid"
+      ],
+      "answer": "Sheikh Zayed Mosque"
+    },
+    {
+      "question": "Which Islamic art form is famous for its vibrant and intricate patterns?",
+      "choices": ["Ceramics", "Metalwork", "Textiles", "Illumination"],
+      "answer": "Illumination"
+    },
+    {
+      "question": "Which Islamic architectural feature is used to create a focal point and enhance acoustics?",
+      "choices": ["Minbar", "Qibla wall", "Iwan", "Dome"],
+      "answer": "Dome"
+    },
+    {
+      "question": "Which Islamic architectural style is known for its horseshoe arches and ornate tilework?",
+      "choices": [
+        "Persian architecture",
+        "Byzantine architecture",
+        "Seljuk architecture",
+        "Moroccan architecture"
+      ],
+      "answer": "Moroccan architecture"
+    },
+    {
+      "question": "Which Islamic art form is characterized by its intricate and elaborate designs?",
+      "choices": ["Pottery", "Embroidery", "Woodwork", "Fresco"],
+      "answer": "Embroidery"
+    },
+    {
+      "question": "Which Islamic architectural element is used to provide ventilation and natural light?",
+      "choices": ["Minaret", "Iwan", "Qibla wall", "Mashrabiya"],
+      "answer": "Mashrabiya"
+    },
+    {
+      "question": "Which Islamic monument is known for its symmetrical gardens and reflecting pools?",
+      "choices": [
+        "Topkapi Palace",
+        "Sheikh Lotfollah Mosque",
+        "Alhambra",
+        "Hassan II Mosque"
+      ],
+      "answer": "Alhambra"
+    },
+    {
+      "question": "Which Islamic art form is created by carving intricate designsinto wood?",
+      "choices": ["Ceramics", "Stucco", "Woodwork", "Engraving"],
+      "answer": "Woodwork"
+    },
+    {
+      "question": "Which city is home to the iconic Dome of the Rock?",
+      "choices": ["Jerusalem", "Mecca", "Medina", "Cairo"],
+      "answer": "Jerusalem"
+    },
+    {
+      "question": "Which Islamic architectural feature is used to mark the entrance of a mosque?",
+      "choices": ["Minaret", "Dome", "Iwan", "Qibla wall"],
+      "answer": "Minaret"
+    },
+    {
+      "question": "Which Islamic art form is known for its intricate metalwork designs?",
+      "choices": ["Ceramics", "Calligraphy", "Textiles", "Filigree"],
+      "answer": "Filigree"
+    },
+    {
+      "question": "Which Islamic architectural style is characterized by its use of turquoise-colored tiles?",
+      "choices": [
+        "Ottoman architecture",
+        "Mughal architecture",
+        "Safavid architecture",
+        "Umayyad architecture"
+      ],
+      "answer": "Safavid architecture"
+    },
+    {
+      "question": "Which Islamic art form is created by painting intricate designs on manuscripts?",
+      "choices": ["Mosaic", "Fresco", "Illumination", "Embroidery"],
+      "answer": "Illumination"
+    }
+  ]
+}

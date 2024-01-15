@@ -1,0 +1,215 @@
+{
+  "category": "Quran Quiz",
+  "questions": [
+    {
+      "question": "Which surah is known as the 'Chapter of the Cow'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Nas",
+        "Surah Al-Ikhlas"
+      ],
+      "answer": "Surah Al-Baqarah"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Most Merciful'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Ya-Sin",
+        "Surah Ar-Rahman"
+      ],
+      "answer": "Surah Ar-Rahman"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of Unity'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Ikhlas",
+        "Surah Al-Kahf"
+      ],
+      "answer": "Surah Al-Ikhlas"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of Patience'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Asr",
+        "Surah Al-Saff"
+      ],
+      "answer": "Surah Al-Asr"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of Protection'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Nas",
+        "Surah Al-Falaq",
+        "Surah Al-Kafirun"
+      ],
+      "answer": "Surah Al-Falaq"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of Dawn'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Mulk",
+        "Surah Al-Fajr",
+        "Surah Al-Ghashiyah"
+      ],
+      "answer": "Surah Al-Fajr"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Moon'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Qamar",
+        "Surah Al-Waqi'ah"
+      ],
+      "answer": "Surah Al-Qamar"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Spider'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Ankabut",
+        "Surah Al-Mulk"
+      ],
+      "answer": "Surah Al-Ankabut"
+    },
+    {
+      "question": "Which surah is recited to seek refuge from the evil of darkness?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Nas",
+        "Surah Al-Ikhlas",
+        "Surah Al-Falaq"
+      ],
+      "answer": "Surah Al-Falaq"
+    },
+    {
+      "question": "Which surah mentions the story of Adam and Eve?",
+      "choices": [
+        "Surah Al-Kahf",
+        "Surah Al-Baqarah",
+        "Surah Yunus",
+        "Surah An-Nisa"
+      ],
+      "answer": "Surah Al-Baqarah"
+    },
+    {
+      "question": "Which surah is considered the heart of the Quran?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Yasin",
+        "Surah Al-Mulk"
+      ],
+      "answer": "Surah Yasin"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of Light'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah An-Nur",
+        "Surah Al-Qadr"
+      ],
+      "answer": "Surah An-Nur"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of Forgiveness'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Ghashiyah",
+        "Surah Al-Ghafir"
+      ],
+      "answer": "Surah Al-Ghafir"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Elephant'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Fil",
+        "Surah Al-Nasr"
+      ],
+      "answer": "Surah Al-Fil"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Sky'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Saff",
+        "Surah Al-Sama"
+      ],
+      "answer": "Surah Al-Sama"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Prostration'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Sajdah",
+        "Surah Al-Muzzammil"
+      ],
+      "answer": "Surah Al-Sajdah"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Night'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Layl",
+        "Surah Al-Infitar"
+      ],
+      "answer": "Surah Al-Layl"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Opening'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Mulk",
+        "Surah Al-Fath"
+      ],
+      "answer": "Surah Al-Fatiha"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Throne'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Nas",
+        "Surah Al-Ikhlas"
+      ],
+      "answer": "Surah Al-Ikhlas"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Cave'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Kahf",
+        "Surah Al-Nasr"
+      ],
+      "answer": "Surah Al-Kahf"
+    },
+    {
+      "question": "Which surah is known as the 'Chapter of the Dawn'?",
+      "choices": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Fajr",
+        "Surah Al-Qadr"
+      ],
+      "answer": "Surah Al-Fajr"
+    }
+  ]
+}

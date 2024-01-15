@@ -1,0 +1,260 @@
+{
+  "category": "Islamic Etiquette Quiz",
+  "questions": [
+    {
+      "question": "What is the recommended greeting in Islam?",
+      "choices": ["Hello", "Salam", "Namaste", "Hola"],
+      "answer": "Salam"
+    },
+    {
+      "question": "What is the Islamic etiquette for entering a mosque?",
+      "choices": [
+        "Enter with your shoes on",
+        "Enter with your left foot",
+        "Enter with your right foot",
+        "Enter with both feet at the same time"
+      ],
+      "answer": "Enter with your right foot"
+    },
+    {
+      "question": "What is the recommended etiquette before entering the bathroom?",
+      "choices": [
+        "Enter with your left foot",
+        "Enter with your right foot",
+        "Recite a specific dua (supplication)",
+        "Enter without saying anything"
+      ],
+      "answer": "Enter with your left foot"
+    },
+    {
+      "question": "What is the recommended etiquette for eating in Islam?",
+      "choices": [
+        "Eat with your left hand",
+        "Eat with your right hand",
+        "Eat with both hands",
+        "Eat using utensils only"
+      ],
+      "answer": "Eat with your right hand"
+    },
+    {
+      "question": "What is the recommended etiquette when receiving a gift in Islam?",
+      "choices": [
+        "Refuse the gift politely",
+        "Accept the gift with both hands",
+        "Accept the gift with your left hand",
+        "Accept the gift without saying anything"
+      ],
+      "answer": "Accept the gift with both hands"
+    },
+    {
+      "question": "What is the recommended etiquette when sneezing in Islam?",
+      "choices": [
+        "Say 'Pardon me'",
+        "Say 'Thank you'",
+        "Say 'God bless you'",
+        "Say 'Alhamdulillah' (All praise is due to Allah)"
+      ],
+      "answer": "Say 'Alhamdulillah' (All praise is due to Allah)"
+    },
+    {
+      "question": "What is the recommended etiquette when visiting a sick person in Islam?",
+      "choices": [
+        "Stay for a short time",
+        "Stay as long as you want",
+        "Avoid visiting the sick person",
+        "Recite a specific dua (supplication)"
+      ],
+      "answer": "Stay for a short time"
+    },
+    {
+      "question": "What is the recommended etiquette when listening to the Quran being recited?",
+      "choices": [
+        "Talk and engage in other activities",
+        "Remain silent and pay attention",
+        "Recite the Quran along with the reciter",
+        "Leave the room"
+      ],
+      "answer": "Remain silent and pay attention"
+    },
+    {
+      "question": "What is the recommended etiquette when meeting someone for the first time in Islam?",
+      "choices": [
+        "Avoid making eye contact",
+        "Shake hands with the opposite gender",
+        "Lower your gaze and greet with a handshake",
+        "Greet with a hug"
+      ],
+      "answer": "Lower your gaze and greet with a handshake"
+    },
+    {
+      "question": "What is the recommended etiquette when attending a funeral in Islam?",
+      "choices": [
+        "Laugh and engage in idle talk",
+        "Recite the Quran loudly",
+        "Cry and mourn excessively",
+        "Offer condolences and pray for the deceased"
+      ],
+      "answer": "Offer condolences and pray for the deceased"
+    },
+    {
+      "question": "What is the recommended etiquette when leaving a gathering in Islam?",
+      "choices": [
+        "Leave without saying goodbye",
+        "Say goodbye and leave immediately",
+        "Seek permission before leaving",
+        "Leave in a hurry without acknowledging anyone"
+      ],
+      "answer": "Seek permission before leaving"
+    },
+    {
+      "question": "What is the recommended etiquette when someone else is speaking in Islam?",
+      "choices": [
+        "Interrupt and share your opinion",
+        "Listen attentively and wait for your turn to speak",
+        "Speak louder to grab attention",
+        "Ignore the speaker and engage in your own conversation"
+      ],
+      "answer": "Listen attentively and wait for your turn to speak"
+    },
+    {
+      "question": "What is the recommended etiquette when offering a prayer (salah) in Islam?",
+      "choices": [
+        "Pray in any direction",
+        "Pray with your shoes on",
+        "Pray in a clean and appropriate place",
+        "Pray while sitting down"
+      ],
+      "answer": "Pray in a clean and appropriate place"
+    },
+    {
+      "question": "What is the recommended etiquette when giving charity (sadaqah) in Islam?",
+      "choices": [
+        "Give publicly and announce your donation",
+        "Give with the intention of showing off",
+        "Give privately and with a sincere intention",
+        "Give only to family members"
+      ],
+      "answer": "Give privately and with a sincere intention"
+    },
+    {
+      "question": "What is the recommended etiquette when visiting the graves in Islam?",
+      "choices": [
+        "Recite the Quran loudly",
+        "Sit on the graves",
+        "Offer prayers and recite supplications",
+        "Ignore the graves and walk away"
+      ],
+      "answer": "Offer prayers and recite supplications"
+    },
+    {
+      "question": "What is the recommended etiquette when entering someone's house in Islam?",
+      "choices": [
+        "Enter without seeking permission",
+        "Knock on the door and enter immediately",
+        "Seek permission before entering",
+        "Enter through the back door"
+      ],
+      "answer": "Seek permission before entering"
+    },
+    {
+      "question": "What is the recommended etiquette when wearing Islamic attire (hijab, thobe, etc.)?",
+      "choices": [
+        "Wear it loosely and improperly",
+        "Wear it only for special occasions",
+        "Wear it modestly and with proper adherence",
+        "Don't bother wearing Islamic attire"
+      ],
+      "answer": "Wear it modestly and with proper adherence"
+    },
+    {
+      "question": "What is the recommended etiquette when giving advice in Islam?",
+      "choices": [
+        "Be harsh and critical",
+        "Give unsolicited advice",
+        "Give advice kindly and privately",
+        "Don't bother giving advice"
+      ],
+      "answer": "Give advice kindly and privately"
+    },
+    {
+      "question": "What is the recommended etiquette when leaving a gathering in Islam?",
+      "choices": [
+        "Leave without saying goodbye",
+        "Say goodbye and leave immediately",
+        "Seek permission before leaving",
+        "Leave in a hurry without acknowledging anyone"
+      ],
+      "answer": "Seek permission before leaving"
+    },
+    {
+      "question": "What is the recommended etiquette when someone else is speaking in Islam?",
+      "choices": [
+        "Interrupt and share your opinion",
+        "Listen attentively and wait for your turn to speak",
+        "Speak louder to grab attention",
+        "Ignore the speaker and engage in your own conversation"
+      ],
+      "answer": "Listen attentively and wait for your turn to speak"
+    },
+    {
+      "question": "What is the recommended etiquette when offering a prayer (salah) in Islam?",
+      "choices": [
+        "Pray in any direction",
+        "Pray with your shoes on",
+        "Pray in a clean and appropriate place",
+        "Pray while sitting down"
+      ],
+      "answer": "Pray in a clean and appropriate place"
+    },
+    {
+      "question": "What is the recommended etiquette when giving charity (sadaqah) in Islam?",
+      "choices": [
+        "Give publicly and announce your donation",
+        "Give with the intention of showing off",
+        "Give privately and with a sincere intention",
+        "Give only to family members"
+      ],
+      "answer": "Give privately and with a sincere intention"
+    },
+    {
+      "question": "What is the recommended etiquette when visiting the graves in Islam?",
+      "choices": [
+        "Recite the Quran loudly",
+        "Sit on the graves",
+        "Offer prayers and recite supplications",
+        "Ignore the graves and walk away"
+      ],
+      "answer": "Offer prayers and recite supplications"
+    },
+    {
+      "question": "What is the recommended etiquette when entering someone's house in Islam?",
+      "choices": [
+        "Enter without seeking permission",
+        "Knock on the door and enter immediately",
+        "Seek permission before entering",
+        "Enter through the back door"
+      ],
+      "answer": "Seek permission before entering"
+    },
+    {
+      "question": "What is the recommended etiquette when wearing Islamic attire (hijab, thobe, etc.)?",
+      "choices": [
+        "Wear it loosely and improperly",
+        "Wear it only for special occasions",
+        "Wear it modestly and with proper adherence",
+        "Don't bother wearing Islamic attire"
+      ],
+      "answer": "Wear it modestly and with proper adherence"
+    },
+    {
+      "question": "What is the recommended etiquette when giving advice in Islam?",
+      "choices": [
+        "Be harsh and critical",
+        "Give unsolicited advice",
+        "Give advice kindly and privately",
+        "Don't bother giving advice"
+      ],
+      "answer": "Give advice kindly and privately"
+    }
+  ]
+}
